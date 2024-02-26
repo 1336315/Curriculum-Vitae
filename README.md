@@ -1,11 +1,9 @@
 # Curriculum-Vitae
 
 PT-BR
-
 &nbsp;
 
 Esse repositório guarda meu currículo profissional, que disponibilizarei aqui no Github
-
 &nbsp;
 
 Para acessar, por favor, entre no arquivo cv.pdf
